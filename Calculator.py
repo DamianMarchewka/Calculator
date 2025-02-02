@@ -22,7 +22,7 @@ if operacja == ("/"):
         print(f"{wynik:.2f}")
     else:
         print("Nie można dzielić zero!")
-#operacja pierwiastkowania.
+#operacja potęgowania.
 def exponentiation(num1, num2):
     result = num1 ** num2
     return result
